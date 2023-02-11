@@ -1,0 +1,20 @@
+{
+    "params":
+        {
+            "local_server" : "True",
+            "local_uri" : "mysql://root:@localhost/codingthunder",
+            "prod_uri" : "mysql://root:@localhost/codingthunder",
+            "tw_url" :   "https://twitter.com",
+            "fb_url" :  "https://facebook.com",
+            "github_url" : "https://github.com",
+            "gmail-user" : "Manishmadhavi1@gmail.com",
+            "gmail-password": "iplovvnqzisennri",
+            "no_of_posts" : 2,
+            "blog_name" : "Manish's Blog",
+            "login_image" : "login_svg.svg",
+            "admin_user" : "manish",
+            "admin_password" : "subscribenow",
+            "upload_location" :"D:\\DATA SCIENCE\\Manish-Flask Project\\uploaded_files"
+
+        }
+}
